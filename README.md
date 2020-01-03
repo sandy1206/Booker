@@ -3,3 +3,15 @@
 
 <h2>How project is Structured ? </h2>
 <p>While you nevigate through project please keep in mind that project is structured by focusing on model view controller patteren (MVC). so the controllers will provides all the possible functions, models are there to store and retrive data from the mongoDB database and routes provides a way to access these data  and functionality </p>
+
+<h2> Stack Used </h2>
+<ul>
+  <li> EJS template engine</li>
+  <li> CSS3</li>
+ <li> Javascript</li>
+   <li> Node.Js</li>
+   <li> Express</li>
+   <li> MongoDB</li>
+   <li>Mongoose </li>
+  
+  </ul>
